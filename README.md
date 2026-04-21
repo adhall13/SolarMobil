@@ -1,2 +1,0 @@
-# SolarMobil
-# task 1
