@@ -1,5 +1,5 @@
 # Linear Regression  
-Linear regression is a statistical method and machine learning algorithm (Supervised Machine Learning algorithm) used to model the relationship between a dependent variable (target) and one or more independent variables (predictors) by fitting a straight line to observed data. It estimates the best-fit line to predict future outcomes based on linear relationships. 
+Linear regression is a **statistical method** and **machine learning algorithm** (Supervised Machine Learning algorithm) used to model the relationship between a dependent variable (target) and one or more independent variables (predictors) by fitting a straight line to observed data. It estimates the best-fit line to predict future outcomes based on linear relationships. 
 
 ## Basic Concepts
 3 essential steps:
